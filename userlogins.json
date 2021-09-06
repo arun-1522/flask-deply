@@ -1,0 +1,28 @@
+{
+  "userlogins": [
+    {
+      "id": 1,
+      "firstname": "Arun",
+      "lastname": "Guna",
+      "phone": "7871508471",
+      "password": "Arun123@",
+      "usertype": "superadminuser"
+    },
+    {
+      "id": 2,
+      "firstname": "Akash",
+      "lastname": "Guna",
+      "phone": "9626044577",
+      "password": "Akash123@",
+      "usertype": "adminuser"
+    },
+    {
+      "id": 3,
+      "firstname": "Kalees",
+      "lastname": "Guna",
+      "phone": "9342269934",
+      "password": "Kalees123@",
+      "usertype": "normaluser"
+    }
+  ]
+}
