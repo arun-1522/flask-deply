@@ -1,78 +1,4 @@
-{"cars": [{
-            "id": 1,
-            "src": "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "alt": "cars",
-            "world": "Cars World",
-            "badge": "CARS",
-            "amount": "66.65",
-            "class": "cars",
-            "usertype": "normaluser",
-            "quantity": "10"
-        },
-        {
-            "id": 2,
-            "src": "https://images.pexels.com/photos/241316/pexels-photo-241316.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "alt": "cars",
-            "world": "Cars World",
-            "badge": "CARS",
-            "amount": "76.60",
-            "class": "cars",
-            "usertype": "normaluser",
-            "quantity": "1"
-
-
-        },
-        {
-            "id": 3,
-            "src": "https://images.pexels.com/photos/3422964/pexels-photo-3422964.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "alt": "cars",
-            "world": "Cars World",
-            "badge": "CARS",
-            "amount": "25.68",
-            "class": "cars",
-            "usertype": "adminuser",
-            "quantity": "5"
-
-
-        },
-        {
-            "id": 4,
-            "src": "https://images.pexels.com/photos/2710043/pexels-photo-2710043.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "alt": "cars",
-            "world": "Cars World",
-            "badge": "CARS",
-            "amount": "106.5",
-            "class": "cars",
-            "usertype": "normaluser",
-            "quantity": "10"
-
-
-        },
-        {
-            "id": 5,
-            "src": "https://images.pexels.com/photos/3802508/pexels-photo-3802508.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "alt": "cars",
-            "world": "Cars World",
-            "badge": "CARS",
-            "amount": "65.35",
-            "class": "cars",
-            "usertype": "adminuser",
-            "quantity": "1"
-
-        },
-        {
-            "id": 6,
-            "src": "https://images.pexels.com/photos/3311574/pexels-photo-3311574.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "alt": "cars",
-            "world": "Cars World",
-            "badge": "CARS",
-            "amount": "71.05",
-            "class": "cars",
-            "usertype": "superadminuser",
-            "quantity": "5"
-
-        }
-    ],
+{
   "userlogins": [
     {
       "id": 1,
@@ -100,10 +26,92 @@
     }
   ],
   
+      "cars": [{
+            "product_id": "1",
+            "id": 1,
+            "src": "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "alt": "car",
+            "world": "Cars World",
+            "badge": "CARS",
+            "amount": "66.65",
+            "class": "cars",
+            "usertype": "normaluser",
+            "quantity": "10"
+        },
+        {
+            "product_id": "2",
+            "id": 2,
+            "src": "https://images.pexels.com/photos/241316/pexels-photo-241316.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "alt": "car",
+            "world": "Cars World",
+            "badge": "CARS",
+            "amount": "76.60",
+            "class": "cars",
+            "usertype": "normaluser",
+            "quantity": "1"
+
+
+        },
+        {
+            "product_id": "3",
+            "id": 3,
+            "src": "https://images.pexels.com/photos/3422964/pexels-photo-3422964.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "alt": "car",
+            "world": "Cars World",
+            "badge": "CARS",
+            "amount": "25.68",
+            "class": "cars",
+            "usertype": "adminuser",
+            "quantity": "5"
+
+
+        },
+        {
+            "product_id": "4",
+            "id": 4,
+            "src": "https://images.pexels.com/photos/2710043/pexels-photo-2710043.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "alt": "car",
+            "world": "Cars World",
+            "badge": "CARS",
+            "amount": "106.5",
+            "class": "cars",
+            "usertype": "normaluser",
+            "quantity": "10"
+
+
+        },
+        {
+            "product_id": "5",
+            "id": 5,
+            "src": "https://images.pexels.com/photos/3802508/pexels-photo-3802508.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "alt": "car",
+            "world": "Cars World",
+            "badge": "CARS",
+            "amount": "65.35",
+            "class": "cars",
+            "usertype": "adminuser",
+            "quantity": "1"
+
+        },
+        {
+            "product_id": "6",
+            "id": 6,
+            "src": "https://images.pexels.com/photos/3311574/pexels-photo-3311574.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+            "alt": "car",
+            "world": "Cars World",
+            "badge": "CARS",
+            "amount": "71.05",
+            "class": "cars",
+            "usertype": "superadminuser",
+            "quantity": "5"
+
+        }
+    ],
     "bikes": [{
+            "product_id": "1",
             "id": 1,
             "src": "https://wallpapershome.com/images/pages/ico_h/21800.jpeg",
-            "alt": "bikes",
+            "alt": "Bikes",
             "world": "Bikes World",
             "badge": "BIKES",
             "amount": "66.65",
@@ -112,9 +120,10 @@
 
         },
         {
+            "product_id": "2",
             "id": 2,
             "src": "https://images.pexels.com/photos/1119796/pexels-photo-1119796.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "alt": "bikes",
+            "alt": "Bikes",
             "world": "Bikes World",
             "badge": "BIKES",
             "amount": "76.60",
@@ -123,9 +132,10 @@
 
         },
         {
+            "product_id": "3",
             "id": 3,
             "src": "https://images.pexels.com/photos/2747540/pexels-photo-2747540.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "alt": "bikes",
+            "alt": "Bikes",
             "world": "Bikes World",
             "badge": "BIKES",
             "amount": "25.68",
@@ -134,9 +144,10 @@
 
         },
         {
+            "product_id": "4",
             "id": 4,
             "src": "https://images.pexels.com/photos/40904/bmw-k-1300-metallic-motorcycle-40904.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "alt": "bikes",
+            "alt": "Bikes",
             "world": "Bikes World",
             "badge": "BIKES",
             "amount": "106.5",
@@ -145,9 +156,10 @@
 
         },
         {
+            "product_id": "5",
             "id": 5,
             "src": "https://images.pexels.com/photos/819805/pexels-photo-819805.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "alt": "bikes",
+            "alt": "Bikes",
             "world": "Bikes World",
             "badge": "BIKES",
             "amount": "65.35",
@@ -156,9 +168,10 @@
 
         },
         {
+            "product_id": "6",
             "id": 6,
             "src": "https://images.pexels.com/photos/2317519/pexels-photo-2317519.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "alt": "bikes",
+            "alt": "Bikes",
             "world": "Bikes World",
             "badge": "BIKES",
             "amount": "71.05",
@@ -168,9 +181,10 @@
         }
     ],
     "fruits": [{
+            "product_id": "1",
             "id": 1,
             "src": "https://images.pexels.com/photos/3310691/pexels-photo-3310691.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-            "alt": "fruits",
+            "alt": "Fruits",
             "world": "Fruits World",
             "badge": "FRUITS",
             "amount": "66.65",
@@ -179,9 +193,10 @@
 
         },
         {
+            "product_id": "2",
             "id": 2,
             "src": "https://wallpapershome.com/images/pages/ico_h/15366.jpg",
-            "alt": "fruits",
+            "alt": "Fruits",
             "world": "Fruits World",
             "badge": "FRUITS",
             "amount": "76.60",
@@ -190,9 +205,10 @@
 
         },
         {
+            "product_id": "3",
             "id": 3,
             "src": "https://wallpapershome.com/images/pages/ico_h/17423.jpg",
-            "alt": "fruits",
+            "alt": "Fruits",
             "world": "Fruits World",
             "badge": "FRUITS",
             "amount": "25.68",
@@ -201,9 +217,10 @@
 
         },
         {
+            "product_id": "4",
             "id": 4,
             "src": "https://wallpapershome.com/images/pages/ico_h/17817.jpg",
-            "alt": "fruits",
+            "alt": "Fruits",
             "world": "Fruits World",
             "badge": "FRUITS",
             "amount": "106.5",
@@ -212,9 +229,10 @@
 
         },
         {
+            "product_id": "5",
             "id": 5,
             "src": "https://wallpapershome.com/images/pages/ico_h/15335.jpg",
-            "alt": "fruits",
+            "alt": "Fruits",
             "world": "Fruits World",
             "badge": "FRUITS",
             "amount": "65.35",
@@ -223,9 +241,10 @@
 
         },
         {
+            "product_id": "6",
             "id": 6,
             "src": "https://wallpapershome.com/images/pages/ico_h/15340.jpg",
-            "alt": "fruits",
+            "alt": "Fruits",
             "world": "Fruits World",
             "badge": "FRUITS",
             "amount": "71.05",
