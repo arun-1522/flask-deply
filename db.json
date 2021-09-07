@@ -26,8 +26,8 @@
     }
   ],
   "cars": [{
-    "id": 1,
             "product_id": "1",
+            "id": 1,
             "src": "https://images.pexels.com/photos/120049/pexels-photo-120049.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
             "alt": "cars",
             "world": "Cars World",
