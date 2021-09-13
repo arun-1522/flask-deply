@@ -28,27 +28,27 @@
   "buyproduct-history": [
     {
       "id": 1,
-      "firstname": "Arun",
-      "lastname": "Guna",
-      "phone": "7871508471",
-      "password": "Arun123@",
-      "usertype": "superadminuser"
+      "product_type": "Arun",
+      "product_count": "Guna",
+      "paid_amount": "7871508471",
+      "status": "success",
+      "user_type": "superadminuser"
     },
     {
       "id": 2,
-      "firstname": "Akash",
-      "lastname": "Guna",
-      "phone": "9626044577",
-      "password": "Akash123@",
-      "usertype": "adminuser"
+      "product_type": "Arun",
+      "product_count": "Guna",
+      "paid_amount": "7871508471",
+      "status": "success",
+      "user_type": "superadminuser"
     },
     {
       "id": 3,
-      "firstname": "Kalees",
-      "lastname": "Guna",
-      "phone": "9342269934",
-      "password": "Kalees123@",
-      "usertype": "normaluser"
+      "product_type": "Arun",
+      "product_count": "Guna",
+      "paid_amount": "7871508471",
+      "status": "success",
+      "user_type": "superadminuser"
     }
   ],
   
